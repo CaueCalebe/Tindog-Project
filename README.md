@@ -40,9 +40,7 @@
 <!-- EXPLICA O MOTIVO DO PROJETO -->
 Tindog Project é um projeto criado durante o curso The Complete Full-Stack Web Development Bootcamp desenvolvido pela professora Angela na plataforma da Udemy.
 
-O desafio proposto para este projeto foi a criação de uma Web page responsiva voltada para encontro de cães. O objetivo era desenvolver a web page usando apenas
-
-Bootstrap.
+O desafio proposto para este projeto foi a criação de uma Web page responsiva voltada para encontro de cães. O objetivo era desenvolver a web page usando apenas Bootstrap.
 
 
 <!-- LINHA DE DIVISÃO: -->

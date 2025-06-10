@@ -38,10 +38,9 @@
 ## 💻 Sobre o projeto
 
 <!-- EXPLICA O MOTIVO DO PROJETO -->
-Tindog Project é um projeto criado durante o curso The Complete Full-Stack Web Development Bootcamp desenvolvido pela professora Angela na plataforma da Udemy.
+Este repositório contém o Projeto Tindog, uma landing page criada para um desafio do curso The Complete Full-Stack Web Development Bootcamp (Udemy, por Angela Yu).
 
-O desafio proposto para este projeto foi a criação de uma Web page responsiva voltada para encontro de cães. O objetivo era desenvolver a web page usando apenas Bootstrap.
-
+O objetivo principal do projeto era aplicar os conceitos de desenvolvimento front-end para construir uma página web responsiva, com o tema de um "app de encontros para cães". A principal restrição do desafio era que todo o layout e componentes fossem desenvolvidos utilizando apenas o framework Bootstrap.
 
 <!-- LINHA DE DIVISÃO: -->
 ---
@@ -52,7 +51,7 @@ O desafio proposto para este projeto foi a criação de uma Web page responsiva 
 ## ⚙️ Funcionalidades
 
 <!-- EXEMPLO DE FUNCIONALIDADES: -->
-- [x] Web page simples para encontro de cães.
+- [x] Landing page simples para um app de encontro de cães.
 
 ---
 
